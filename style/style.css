@@ -1,4 +1,20 @@
 body{
 background: lightblue;
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+border-bottom:  2px solid white;
 
+}
+
+.parent{
+    display: flex;
+    font-size: 150%;
+    border-bottom: lightblue;
+}
+.onglet{
+    margin: 10px;
+    padding: 10px;
+}
+.BTM{
+    margin-right: 75px;;
 }
